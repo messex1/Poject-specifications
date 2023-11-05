@@ -18,9 +18,9 @@ This project is divided into several deliverables, outlined below.  The due date
 
 
 * [**Deliverable 1:** - 10 %](./Deliverable-1.md) – Due **Dec 1, 2023**: Week 13
-  * Query page.
+  * Query component.
 * [**Deliverable 2:** - 15 %](./Deliverable-2.md) – Due **Dec 15, 2023**: Week 15
-  * CRUD page.
+  * CRUD component.
 
 > Each deliverable part is cumulative, building on previous deliverable parts of the solution. For each deliverable, any and all supporting functionality of previous deliverables must function correctly in order to gain marks for the demonstrated deliverable.
 >
