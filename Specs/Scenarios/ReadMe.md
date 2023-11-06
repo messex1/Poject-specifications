@@ -20,10 +20,8 @@ Each scenario has an ERD (Entity Relationship Diagram) of the database tables fo
 |                                    |                                     |                                  |                                 |
 | ---------------------------------- | ----------------------------------- | -------------------------------- | ------------------------------- |
 | [A01: Employees](A01.md)           | [A02: Clubs](A02.md)                | [A03: Programs](A03.md)          | [A04: Program Courses](A04.md)  |
-| [A05: Club Activities](A05.md)     | [A06: Offerings](A06.md)            | [A07: Class Offerings](A07.md)   | [A08: Students](A08.md)         |
-| [A09: Addresses](A09.md)           | [A10: Student Payments](A10.md)     | [A11: Club Members](A11.md)      | [A12: Assignments](A12.md)      |
-| [A13: Student Addresses](A13.md)   | [A14: Planned Assessments](A14.md)  | [A15: Rentals](A15.md)           | [A16: Renters](A16.md)          |
-| [A17: Rental Payments](A17.md)     | [A18: Class Members](A18.md)        | [A19: Grade Assignments](A19.md) | [A20: *TBA*](#)                 |
+| [A05: Club Activities](A05.md)     |            |   |          |
+
 
 ## ERD
 
