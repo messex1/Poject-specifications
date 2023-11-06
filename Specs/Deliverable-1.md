@@ -1,4 +1,4 @@
-# Deliverable 1 - Project Setup
+# Deliverable 1 - Project Setup and Query Component
 
 This portion of the lab consists of setting up the structured solution, documentation, and functioning code for required entities and DAL layer, and the functioning Query page and the related BLL services
 
