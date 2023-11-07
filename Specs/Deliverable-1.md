@@ -30,7 +30,7 @@ There are two components for the core functionality of this project (described b
 
 ### Layout and Styling
 
-You are expected to decide upon the styling approach for your site (Holiday, Bootstrap, awsm.css, Tailwind, etc.) and put some effort in to make your content look presentable. In addition, your layout display must contain the following elements:
+You are expected to decide upon the styling approach for your site (Holiday, Bootstrap, awsm.css, Tailwind, etc.) and put some effort in to making your content look presentable. In addition, your layout display must contain the following elements:
 
 * **Site Navigation** – Links to all the components in the web application. (`NavMenu.razor`)
 * **Scenario Title** – The number and name of the scenario (e.g.: G1 – Reservations by Group) on the footer. (`MainLayout.razor`)
@@ -57,7 +57,7 @@ Your tabular report should display 10 to 25 rows per page (as appropriate for yo
 The page must have appropriate error handling and message capability.
 ----
 
-## Evaluation - *10%* – Scenario Number: ________
+## Evaluation - *10%* 
 
 > ***NOTE:** Your code **must** compile. Solutions that do not compile will receive an automatic mark of zero (0).*
 >
