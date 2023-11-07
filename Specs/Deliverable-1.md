@@ -6,7 +6,7 @@ This portion of the lab consists of setting up the structured solution, document
 
 ## Required Projects
 
-Your solution must be a client-server solution consisting of multiple projects as outlined in the course. The Presentation Layer portion is to be an ASP.NET Web Application (**.NET Core 7.0** Blazor Components). The BLL, Entity classes and DAL portions of the system are to be placed in a separate class library project.
+Your solution must be a client-server solution consisting of multiple projects as outlined in the course. The Presentation Layer portion is to be an ASP.NET Web Application (**.NET Core 7.0** Blazor Components). The BLL, Entity classes and DAL portions of the system are to be placed in a separate class library project (**.NET Core 7.0**).
 
 ## The StarTED Database
 
